@@ -1,0 +1,23 @@
+
+body {
+      background-color: #3A8891;
+}
+hr{
+  height: 4px;
+  border-style: none;
+  background-color: white;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
+h1 {
+  color: #F2DEBA;
+}
+h3 {
+  color: #F2DEBA;
+}
+
+img:hover{
+  background-color: gold;
+}
